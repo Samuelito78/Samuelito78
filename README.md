@@ -7,7 +7,7 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the firs
 
 - Programming Languages: C++, Java, Python
 - Web Development: HTML, CSS, Bootstrap
-- Databases: MySQL
+- Databases: MySQL, Oracle
 - Tools: Git, GitHub, CLion, PyCharm, Eclipse, Visual Studio Code
 
 ## 🌐 My Projects
