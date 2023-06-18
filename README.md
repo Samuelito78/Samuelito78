@@ -14,6 +14,8 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the firs
 
 1. **Card Game Project**: [GitHub Repository](https://github.com/Pierrafrom/Project-Card-Game)
    - This card game was developed as a C++ project for computer science students at the IUT of Paris-Saclay University in France.
+2. **Lite Trello Java**: [GitHub Repository](https://github.com/Samuelito78/trellolite)
+   - This java application was developed as project for computer science students at the IUT of Paris-Saclay University in France.
 
 ## 📫 How to Reach Me
 
