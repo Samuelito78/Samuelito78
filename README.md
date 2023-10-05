@@ -17,7 +17,7 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the seco
 2. **Lite Trello Java**: [GitHub Repository](https://github.com/Samuelito78/trellolite)
    - This java application was developed as project for computer science students at the IUT of Paris-Saclay University in France.
 3. **Network Configuration**: [GitHub Repository](https://github.com/Samuelito78/networkconfig)
-   - This was a project for computer science students at the IUT of Paris-Saclay University in France in order for us to understand and to configure network configuration.
+   - This was a project for computer science students at the IUT of Paris-Saclay University in France in order for us to understand and to configure a network.
 
 ## 📫 How to Reach Me
 
