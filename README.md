@@ -6,7 +6,7 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the seco
 ## 🛠️ My technical skills
 
 - Programming Languages: C++, Java, Python, C, C#
-- Web Development: HTML, CSS, Bootstrap
+- Web Development: HTML, CSS, Bootstrap, PHP
 - Databases: MySQL, Oracle
 - Tools: Git, GitHub, the JetBrains suite, Eclipse, Visual Studio Code
 
