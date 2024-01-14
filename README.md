@@ -12,7 +12,7 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the seco
 
 ## 🌐 My Projects
 
-1. [** Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
+1. [**Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
    - This card game was developed as a java app synced with a MariaDB database project for computer science students at the IUT of Paris-Saclay University in France.
 2. [**Card Game Project**](https://github.com/Pierrafrom/Project-Card-Game): 
    - This card game was developed as a C++ project for computer science students at the IUT of Paris-Saclay University in France.
