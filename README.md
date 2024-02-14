@@ -22,7 +22,9 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the seco
    - This card game was developed as a C++ project for computer science students at the IUT of Paris-Saclay University in France.
 5. [**Network Configuration**](https://github.com/Samuelito78/networkconfig): 
    - This was a project for computer science students at the IUT of Paris-Saclay University in France in order for us to understand and to configure a network.
-
+6. [**Checkers**](https://github.com/Samuelito78/Jeu-de-dames):
+   - I made this little checkers game in high school; it was my first project in which I discovered object-oriented programming.
+   
 ## 📫 How to Reach Me
 
 - Email: [samuel.boix78@gmail.com](mailto:samuel.boix78@gmail.com)
