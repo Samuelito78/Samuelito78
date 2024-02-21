@@ -13,7 +13,7 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the seco
 ## 🌐 My Projects
 
 1. [**Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
-   - This project was developed as a java app synced with a MariaDB database and our <a href="https://iut2orsaybestpizza.duckdns.org/">website</a>, this is the <a href="https://github.com/Pierrafrom/PizzaHome">website's repository</a>.
+   - This project was developed as a java app synced with a MariaDB database and our <a href="https://github.com/Pierrafrom/PizzaHome">website</a>.
 2. [**Pizza Delivery Project**](https://github.com/Pierrafrom/PizzaDeliveryApp):
    - This project was developed in Java in order to implement different algorithm like genetic algorithm, dynamic programming and other approaches. 
 3. [**Lite Trello Java**](https://github.com/Samuelito78/trellolite): 
