@@ -1,7 +1,7 @@
 # Hi, I am Samuel! 👋
 
 ## About me 📚
-I am studying at Université Paris-Saclay in France. Currently, I am in the second year of my Bachelor Universitaire Technologique (BUT) in IT. I really enjoy programming , but I'm also interested in various aspects of IT, such as artificial intelligence and learning how to interact with different types of databases.
+I am studying at Université Paris-Saclay in France. Currently, I am in the third and last year of my Bachelor Universitaire Technologique (BUT) in Computer Science. I really enjoy programming , but I'm also interested in various aspects of IT, such as artificial intelligence and learning how to interact with different types of databases.
 
 ## 🛠️ My technical skills
 
