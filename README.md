@@ -11,18 +11,18 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the thir
 - Tools: Git, GitHub, the JetBrains suite, Eclipse, Visual Studio Code, Visual Studio
 
 ## 🌐 My Projects
-
-1. [**Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
+1. [**Bridge Live Streaming Project**](https://projet-bridge.fr.to):
+2. [**Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
    - This project was developed as a java app synced with a MariaDB database and our <a href="https://github.com/Pierrafrom/PizzaHome">website</a>.
-2. [**Pizza Delivery Project**](https://github.com/Pierrafrom/PizzaDeliveryApp):
+3. [**Pizza Delivery Project**](https://github.com/Pierrafrom/PizzaDeliveryApp):
    - This project was developed in Java in order to implement different algorithm like genetic algorithm, dynamic programming and other approaches. 
-3. [**Lite Trello Java**](https://github.com/Samuelito78/trellolite): 
+4. [**Lite Trello Java**](https://github.com/Samuelito78/trellolite): 
    - This java application was developed as a project for computer science students at the IUT of Paris-Saclay University in France.
-4. [**Card Game Project**](https://github.com/Pierrafrom/Project-Card-Game): 
+5. [**Card Game Project**](https://github.com/Pierrafrom/Project-Card-Game): 
    - This card game was developed as a C++ project for computer science students at the IUT of Paris-Saclay University in France.
-5. [**Network Configuration**](https://github.com/Samuelito78/networkconfig): 
+6. [**Network Configuration**](https://github.com/Samuelito78/networkconfig): 
    - This was a project for computer science students at the IUT of Paris-Saclay University in France in order for us to understand and to configure a network.
-6. [**Checkers**](https://github.com/Samuelito78/Jeu-de-dames):
+7. [**Checkers**](https://github.com/Samuelito78/Jeu-de-dames):
    - I made this little checkers game in high school; it was my first project in which I discovered object-oriented programming.
    
 ## 📫 How to Reach Me
