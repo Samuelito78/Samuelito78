@@ -12,12 +12,13 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the thir
 
 ## 🌐 My Projects
 1. [**Bridge Live Streaming Project**](https://projet-bridge.fr.to):
+   - This <a href="https://projet-bridge.fr.to">webapp</a> is in construction, the user will be able to livestream multiple bridge games using RTMP & HLS while having an help to play by using openCV card recognition. 
 2. [**Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
    - This project was developed as a java app synced with a MariaDB database and our <a href="https://github.com/Pierrafrom/PizzaHome">website</a>.
 3. [**Pizza Delivery Project**](https://github.com/Pierrafrom/PizzaDeliveryApp):
    - This project was developed in Java in order to implement different algorithm like genetic algorithm, dynamic programming and other approaches. 
 4. [**Lite Trello Java**](https://github.com/Samuelito78/trellolite): 
-   - This java application was developed as a project for computer science students at the IUT of Paris-Saclay University in France.
+   - This java application was developed inspired by the famous Trello Lite in order to learn MVC and UI creation.
 5. [**Card Game Project**](https://github.com/Pierrafrom/Project-Card-Game): 
    - This card game was developed as a C++ project for computer science students at the IUT of Paris-Saclay University in France.
 6. [**Network Configuration**](https://github.com/Samuelito78/networkconfig): 
