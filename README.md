@@ -12,7 +12,7 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the thir
 
 ## 🌐 My Projects
 1. [**Bridge Live Streaming Project**](https://projet-bridge.fr.to):
-   - This <a href="https://projet-bridge.fr.to">webapp</a> is in construction, the user will be able to livestream multiple bridge games using RTMP & HLS while having an help to play by using openCV card recognition. 
+   - This <a href="https://projet-bridge.fr.to">webapp</a> is currently in its building phase, the user will be able to livestream multiple bridge games using RTMP & HLS while having an help to play by using openCV card recognition. 
 2. [**Pizza Maker App Project**](https://github.com/Pierrafrom/PizzaMakerApp): 
    - This project was developed as a java app synced with a MariaDB database and our website.
 3. [**Pizza Delivery Project**](https://github.com/Pierrafrom/PizzaDeliveryApp):
