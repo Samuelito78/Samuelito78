@@ -21,8 +21,8 @@ I am studying at Université Paris-Saclay in France. Currently, I am in the thir
    - This java application was developed inspired by the famous Trello Lite in order to learn MVC and UI creation.
 5. [**Card Game Project**](https://github.com/Pierrafrom/Project-Card-Game): 
    - This card game was developed as a C++ project for computer science students at the IUT of Paris-Saclay University in France.
-6. [**Network Configuration**](https://github.com/Samuelito78/networkconfig): 
-   - This was a project for computer science students at the IUT of Paris-Saclay University in France in order for us to understand and to configure a network.
+6. [**Sparql Grammys Wikidata**](https://github.com/Samuelito78/sparql_grammys): 
+   - This Next.js web application lets you explore and analyze the frequence of music genres among Grammy winners for *Album of the Year* and *Song of the Year*. The data is sourced from Wikidata and Kaggle then grouped using sparql and GraphDB.
 7. [**Checkers**](https://github.com/Samuelito78/Jeu-de-dames):
    - I made this little checkers game in high school; it was my first project in which I discovered object-oriented programming.
    
